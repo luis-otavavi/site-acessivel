@@ -3,9 +3,9 @@
 
 :root {
     --laranja-claro: #FF862A;
-    --alto-contraste-fundo: #000000;
+    --alto-contraste-fundo: #000000e8;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #44402694;
 }
 
 body {
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #271f53;
 
 }
 
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #c01010;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
